@@ -1,10 +1,10 @@
 For 3.3V circuit:
 
-~4.2V: ~19AFR [2.5mA]
+~4.50V: ~19AFR [2.5mA]
 
-3.3V: 14.7AFR [0mA]
+3.30V: 14.7AFR [0mA]
 
-~2.1V: ~12AFR [-2mA]
+~2.35V: ~12AFR [-2mA]
 
 (Using the Planar A/F Sensor Review data. The circuit isn't exactly 1:1 with the graph, since the graph isn't linear but somewhat exponential.)
 
