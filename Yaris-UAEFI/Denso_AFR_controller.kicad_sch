@@ -1647,7 +1647,7 @@
 	)
 	(text "Sensor acts as Current source"
 		(exclude_from_sim no)
-		(at 165.1 64.135 0)
+		(at 165.1 63.5 0)
 		(effects
 			(font
 				(size 1.0668 1.0668)
@@ -3802,7 +3802,7 @@
 		(lib_id "ltspice:res")
 		(at 83.82 71.12 270)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3820,7 +3820,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 79.375 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
